@@ -86,7 +86,7 @@ const About = () => {
         whileHover={{ scale: 1.05 }} 
       >
         <motion.img
-          src="../src/assets/Mk.jpg"
+          src="/Mk.jpg"
           className="w-full"
           whileHover={{ scale: 1.2 }} 
         />
